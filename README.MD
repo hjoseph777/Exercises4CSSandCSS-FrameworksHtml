@@ -5,6 +5,9 @@
 ## [index.html](./index.html)
 ## [styles1.css](./styles1.css)
 
+## Display Page:
+![Exercise](https://hjoseph777.github.io/Exercises4CSSandCSS-FrameworksHtml/)
+
 Use CSS to give the header a fixed position at the top of the page.
 Make the footer look visually appealing, and keep it at the bottom.
 Intro Section:
